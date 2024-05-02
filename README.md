@@ -11,8 +11,8 @@ Implement transfer learning using a pre-trained VGG-16 model on the ImageNet dat
 Create a TensorFlow code to build a basic RNN model for sequence prediction. Train the model on a synthetic sequence dataset and generate predictions.
 
 4. Natural Language Processing (NLP) with LSTM:
-
 Write TensorFlow code to develop an LSTM model for sentiment analysis. Train the model on a dataset like IMDB movie reviews and evaluate its performance.
+
 5. Generative Adversarial Networks (GANs):
 Implement a basic GAN using TensorFlow for generating synthetic images. Train the GAN on a dataset like MNIST or Fashion-MNIST and visualize the generated images.
 
