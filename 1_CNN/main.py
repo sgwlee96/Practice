@@ -3,7 +3,7 @@ import utils
 import os.path
 
 def main():
-    csv_file = "results.csv"
+    csv_file = "results_CNN.csv"
     file_exists = os.path.isfile(csv_file)
 
 

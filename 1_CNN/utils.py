@@ -1,7 +1,7 @@
 import csv
 
 def save_results(model_name, history, test_loss, test_accuracy, csv_file, append=False):
-    csv_file = "results.csv"
+    csv_file = "results_CNN.csv"
     with open(csv_file, mode="a" if append else 'w', newline='') as file:
         writer = csv.writer(file)
 
